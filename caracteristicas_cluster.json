@@ -1,0 +1,89 @@
+{
+    "clusters": {
+      "0": {
+        "nombre": "Joven Funcionario Desconectado",
+        "descripcion": "Hombres jóvenes, funcionarios, con bajo nivel de digitalización y bajo gasto mensual. Perfil poco conectado digitalmente.",
+        "caracteristicas": {
+          "Edad_media": 35,
+          "Genero": "M",
+          "Casado": "No",
+          "Graduado": "Sí",
+          "Profesion": "Funcionario",
+          "Experiencia_laboral": "<10 años",
+          "Generacion": "Millennials",
+          "Ingresos_anuales_brutos": 26821,
+          "Gasto_medio_mensual_cuota": 31,
+          "Digital_encuesta": 1899,
+          "Region": "Norte"
+        }
+      },
+      "1": {
+        "nombre": "Patriarca Conservador de Alto Ingreso",
+        "descripcion": "Hombres mayores, casados, sin estudios superiores, con altísima experiencia laboral, ingresos elevados y hábitos tradicionales.",
+        "caracteristicas": {
+          "Edad_media": 67,
+          "Genero": "M",
+          "Casado": "Sí",
+          "Graduado": "No",
+          "Profesion": "Servicios",
+          "Experiencia_laboral": "+20 años",
+          "Generacion": "Generación X",
+          "Ingresos_anuales_brutos": 110635,
+          "Gasto_medio_mensual_cuota": 123,
+          "Digital_encuesta": 1446,
+          "Region": "Norte"
+        }
+      },
+      "2": {
+        "nombre": "Millennial Básico Desvinculado",
+        "descripcion": "Adultos jóvenes sin estudios superiores, con ingresos bajos y escaso gasto. Perfil desconectado digitalmente y con estilo de vida austero.",
+        "caracteristicas": {
+          "Edad_media": 36,
+          "Genero": "M",
+          "Casado": "No",
+          "Graduado": "No",
+          "Profesion": "Otros",
+          "Experiencia_laboral": "10–20 años",
+          "Generacion": "Millennials",
+          "Ingresos_anuales_brutos": 29183,
+          "Gasto_medio_mensual_cuota": 31,
+          "Digital_encuesta": 1668,
+          "Region": "Norte"
+        }
+      },
+      "3": {
+        "nombre": "Veterano Académico Estable",
+        "descripcion": "Hombres mayores con estudios superiores, casados, con amplia experiencia y situación económica estable. Perfil tradicional pero con educación avanzada.",
+        "caracteristicas": {
+          "Edad_media": 67,
+          "Genero": "M",
+          "Casado": "Sí",
+          "Graduado": "Sí",
+          "Profesion": "Servicios",
+          "Experiencia_laboral": "+20 años",
+          "Generacion": "Generación X",
+          "Ingresos_anuales_brutos": 75825,
+          "Gasto_medio_mensual_cuota": 45,
+          "Digital_encuesta": 1365,
+          "Region": "Norte"
+        }
+      },
+      "4": {
+        "nombre": "Creativo Digital de Renta Alta",
+        "descripcion": "Hombres de mediana edad, artistas con alto poder adquisitivo, nivel digital decente y gastos mensuales considerables.",
+        "caracteristicas": {
+          "Edad_media": 55,
+          "Genero": "M",
+          "Casado": "Sí",
+          "Graduado": "Sí",
+          "Profesion": "Artista",
+          "Experiencia_laboral": "+20 años",
+          "Generacion": "Generación X",
+          "Ingresos_anuales_brutos": 84436,
+          "Gasto_medio_mensual_cuota": 53,
+          "Digital_encuesta": 1394,
+          "Region": "Norte"
+        }
+      }
+    }
+  }  
